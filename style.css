@@ -1,0 +1,22 @@
+* {
+    color: #eee;
+    background-color: #393e46;
+}
+
+body {
+    background-color: #393e46;
+}
+
+.avatar {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border: 3px solid #d65a31;
+    border-radius: 500px;
+    -webkit-border-radius: 500px;
+    -moz-border-radius: 500px;
+}
+
+hr {
+    border-top: 2px solid #d65a31;
+}

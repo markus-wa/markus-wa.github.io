@@ -21,6 +21,6 @@ hr {
     border-top: 1px solid #6272a4;
 }
 
-a {
+a, a:hover {
     color: #8be9fd;
 }

@@ -1,22 +1,26 @@
 * {
-    color: #eee;
-    background-color: #393e46;
+    color: #f8f8f2;
+    background-color: #282a36;
 }
 
 body {
-    background-color: #393e46;
+    background-color: #282a36;
 }
 
 .avatar {
     width: 200px;
     height: 200px;
     margin: 10px;
-    border: 3px solid #d65a31;
+    border: 2px solid #6272a4;
     border-radius: 500px;
     -webkit-border-radius: 500px;
     -moz-border-radius: 500px;
 }
 
 hr {
-    border-top: 2px solid #d65a31;
+    border-top: 1px solid #6272a4;
+}
+
+a {
+    color: #8be9fd;
 }
